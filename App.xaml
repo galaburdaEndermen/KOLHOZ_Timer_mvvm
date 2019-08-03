@@ -1,0 +1,9 @@
+﻿<Application x:Class="GAS_timer_mvvm.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GAS_timer_mvvm"
+             StartupUri="Vievs/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
